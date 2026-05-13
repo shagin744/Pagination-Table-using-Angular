@@ -47,6 +47,7 @@ export class UserTableComponent implements OnInit, AfterViewInit {
       note: 'Active user records',
       color: 'from-sky-500 to-blue-600'
     },
+    
     {
       label: 'Total Sales',
       value: 82450,
